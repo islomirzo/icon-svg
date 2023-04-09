@@ -1,0 +1,54 @@
+.icon {
+  display: inline-block;
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-position: center;
+  -webkit-mask-position: center;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  background-color: currentcolor;
+  width: 1rem;
+  min-width: 1rem;
+  height: 1rem;
+  min-height: 1rem;
+}
+
+.icon-face-smile {
+  mask-image: url("../svg-icons/face-smile.svg");
+  -webkit-mask-image: url("../svg-icons/face-smile.svg");
+}
+
+.icon-face-wink {
+  mask-image: url("../svg-icons/face-wink.svg");
+  -webkit-mask-image: url("../svg-icons/face-wink.svg");
+}
+
+.icon-face-neutral {
+  mask-image: url("../svg-icons/face-neutral.svg");
+  -webkit-mask-image: url("../svg-icons/face-neutral.svg");
+}
+
+.icon-face-sad {
+  mask-image: url("../svg-icons/face-sad.svg");
+  -webkit-mask-image: url("../svg-icons/face-sad.svg");
+}
+
+.icon-face-content {
+  mask-image: url("../svg-icons/face-content.svg");
+  -webkit-mask-image: url("../svg-icons/face-content.svg");
+}
+
+.icon-face-happy {
+  mask-image: url("../svg-icons/face-happy.svg");
+  -webkit-mask-image: url("../svg-icons/face-happy.svg");
+}
+
+.icon {
+  color: #2a82d8;
+  width: 50px;
+  min-width: 50px;
+  height: 50px;
+  min-height: 50px;
+}
+
+/*# sourceMappingURL=style.css.map */
